@@ -54,7 +54,7 @@ Cricketer_pic_detection_project/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git https://github.com/ArmanAli1234/Cricketer_pic_detection_model.git
 ```
 
 2. Navigate to the project directory:
@@ -66,7 +66,8 @@ cd Cricketer_pic_detection_project
 3. Install the required libraries:
 
 ```bash
-pip install flask tensorflow numpy pillow
+pip install flask tensorflow numpy pillow or 
+pip install -r requirements.txt
 ```
 
 ## Run the Application
